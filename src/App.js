@@ -2,6 +2,7 @@ import './App.css';
 
 import { connect } from 'react-redux';
 
+import { decrease, increase } from './actions/actionCreator';
 
 
 
